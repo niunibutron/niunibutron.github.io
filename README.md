@@ -1,6 +1,6 @@
 ## Ingenieria Electrica
 
-Este curso es impartido por la profesoresa Niuni Butron y contiene parte del material de clase.
+Este curso es impartido por la profesora Niuni Butron y contiene parte del material de clase.
 
 ### Practica 2
 
