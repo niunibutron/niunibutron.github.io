@@ -77,39 +77,39 @@ Proyectos de desarrollo comunitario, 2017-2018, Suelo fértil S.A.
 Honestidad, deseos de aprender, liderazgo, trabajo en equipo, responsabilidad, resolución de problemas, presentación de resultados, flexibilidad, empatía, habilidades comunicativas.
 
 ## CURSOS ACTUALIZACIÓN
-**Energía solar, Sistemas Fotovoltaicos,** 8 horas, (24/02/21-25/02/21), Syscom.
-**Sustentabilidad y economías sociales,** 20 horas, (16/04/2020-27/05/2020), Universidad de Chile, Coursera.
-**Cosecha de agua,** 12 horas, (05/01/2020-12/01/2020), Fundación Carlos Slim.
-**Programación Python Jr,** 25 horas, (11/12/2019-21/12/19), SciData.
-**Ecologías del Futuro,** 35 horas, (18/11/2019-26/11/2019), Animasivo.
-**Administración, Atención a Clientes y Habilidades Socioemocionales,** 20 horas, (11/08/2019-15/08/2019), Fundación Telefónica Movistar.
-**Proyecto Vive,** 40 horas, (29/07/2019-08/08/2019), Fundación Manpower Group.
-**Curso SIG Inegi,** 20 horas, (12/09/18-4/10/18), INEGI, UAQ.
-**Diplomado: Modelos de Gestión de Proyectos Sociales,** 120 horas, (1/06/2018-17/11/2018), SEDESOL-Indesol, en línea.
-**Redes de Aprendizaje,** Iniciadores (26/10/17-27/10/17), Ciudad de México., CONUEE-GIZ.
-**Sustainability of Social-Ecological Systems: The Nexus between Water, Energy and Food,** (28/08/17-22/10/17), Universidad Autónoma de Barcelona, Coursera. 
-**Curso Innovación 4.0,** 20 horas, (4/09/17-8/09/17), Universidad Tecnológica de Querétaro.
-**Diplomado: Ciudades seguras para la convivencia a partir del espacio público,** 120 horas, noviembre-abril 2016, Arquitectura, UNAM, México DF.
-**Bioconstrucción (adobe, cob, BTC, quincha y paja),** 25 horas, Espai Gardenyes, 2015, Barcelona, España. 
-**Diseño Industrial, 2014, División Industrial, UPC, Barcelona España.
-**Workshop: backcasting,** 2014, UPC, Villanova i la Gertrù, Cataluña, España. 
-**El desarrollo de proyectos y su importancia en el aprendizaje de ingeniería,** 20 horas, mayo-junio 2013, Centro de Docencia, UNAM, Ciudad de México.
-**Tlalana. Autogestión y jóvenes,** 14 horas, febrero 2012, ADECO A.C.
-**Elementos básicos de la didáctica,** 20 horas, noviembre-diciembre 2012, Centro de Docencia, UNAM, Ciudad de México.
-**La gimnasia cerebral para el incremento de la productividad en el aula,** 15 horas, octubre 2012, Centro de Docencia, UNAM. Ciudad de México.
-**Evaluación del aprendizaje escolar,** 15 horas, mayo 2012, UNAM, Ciudad de México.
-**Introducción Certificación LEED,** 8 horas, 2011, Centro Banamex, Ciudad de México
-**Estudio de la lengua portuguesa,** variante brasileña, 2005-2008, CELE, UNAM, Ciudad de México. 
+* **Energía solar, Sistemas Fotovoltaicos,** 8 horas, (24/02/21-25/02/21), Syscom.
+* **Sustentabilidad y economías sociales,** 20 horas, (16/04/2020-27/05/2020), Universidad de Chile, Coursera.
+* **Cosecha de agua,** 12 horas, (05/01/2020-12/01/2020), Fundación Carlos Slim.
+* **Programación Python Jr,** 25 horas, (11/12/2019-21/12/19), SciData.
+* **Ecologías del Futuro,** 35 horas, (18/11/2019-26/11/2019), Animasivo.
+* **Administración, Atención a Clientes y Habilidades Socioemocionales,** 20 horas, (11/08/2019-15/08/2019), Fundación Telefónica Movistar.
+* **Proyecto Vive,** 40 horas, (29/07/2019-08/08/2019), Fundación Manpower Group.
+* **Curso SIG Inegi,** 20 horas, (12/09/18-4/10/18), INEGI, UAQ.
+* **Diplomado: Modelos de Gestión de Proyectos Sociales,** 120 horas, (1/06/2018-17/11/2018), SEDESOL-Indesol, en línea.
+* **Redes de Aprendizaje,** Iniciadores (26/10/17-27/10/17), Ciudad de México., CONUEE-GIZ.
+* **Sustainability of Social-Ecological Systems: The Nexus between Water, Energy and Food,** (28/08/17-22/10/17), Universidad Autónoma de Barcelona, Coursera. 
+* **Curso Innovación 4.0,** 20 horas, (4/09/17-8/09/17), Universidad Tecnológica de Querétaro.
+* **Diplomado: Ciudades seguras para la convivencia a partir del espacio público,** 120 horas, noviembre-abril 2016, Arquitectura, UNAM, México DF.
+* **Bioconstrucción (adobe, cob, BTC, quincha y paja),** 25 horas, Espai Gardenyes, 2015, Barcelona, España. 
+* **Diseño Industrial, 2014, División Industrial, UPC, Barcelona España.
+* **Workshop: backcasting,** 2014, UPC, Villanova i la Gertrù, Cataluña, España. 
+* **El desarrollo de proyectos y su importancia en el aprendizaje de ingeniería,** 20 horas, mayo-junio 2013, Centro de Docencia, UNAM, Ciudad de México.
+* **Tlalana. Autogestión y jóvenes,** 14 horas, febrero 2012, ADECO A.C.
+* **Elementos básicos de la didáctica,** 20 horas, noviembre-diciembre 2012, Centro de Docencia, UNAM, Ciudad de México.
+* **La gimnasia cerebral para el incremento de la productividad en el aula,** 15 horas, octubre 2012, Centro de Docencia, UNAM. Ciudad de México.
+* **Evaluación del aprendizaje escolar,** 15 horas, mayo 2012, UNAM, Ciudad de México.
+* **Introducción Certificación LEED,** 8 horas, 2011, Centro Banamex, Ciudad de México
+* **Estudio de la lengua portuguesa,** variante brasileña, 2005-2008, CELE, UNAM, Ciudad de México. 
 
 ## CONGRESOS Y CONFERENCIAS
 
-**ECOS 2013:** Energy Efficiency and Alternative Sources in SMEs Tourism Sector, China, 2013.
-**COBIM:** Análisis del Consumo de Energía con Econtecnologías en el Sector Residencial Mexicano, Perú, 2012. 
-**COMEC 2012:** Lineamientos de Construcción verde en Edificios: Eficiencia Energética, Cuba 2012. 
-**SEEP 2012:** Energetic Simulation in Tourism Sector in Mexico, Irlanda, 2012. 
-**MAS XXI:** Automatización de Sistemas Pasivos en México, Cuba, 2011. 
-**Ekotectura:** Uso Eficiente de Energía y Aprovechamiento de Energías Renovables en Pymes del Sector Turismo, Colombia, 2011. 
-**Congreso a Favor del Medio Ambiente 2009:** Análisis del Consumo de Energía con Ecotecnologías en el Sector Residencial Mexicano, Islas Canarias, 2009.
+* **ECOS 2013:** Energy Efficiency and Alternative Sources in SMEs Tourism Sector, China, 2013.
+* **COBIM:** Análisis del Consumo de Energía con Econtecnologías en el Sector Residencial Mexicano, Perú, 2012. 
+* **COMEC 2012:** Lineamientos de Construcción verde en Edificios: Eficiencia Energética, Cuba 2012. 
+* **SEEP 2012:** Energetic Simulation in Tourism Sector in Mexico, Irlanda, 2012. 
+* **MAS XXI:** Automatización de Sistemas Pasivos en México, Cuba, 2011. 
+* **Ekotectura:** Uso Eficiente de Energía y Aprovechamiento de Energías Renovables en Pymes del Sector Turismo, Colombia, 2011. 
+* **Congreso a Favor del Medio Ambiente 2009:** Análisis del Consumo de Energía con Ecotecnologías en el Sector Residencial Mexicano, Islas Canarias, 2009.
 
 ## RECONOCIMIENTOS
 * 1er Lugar en Concurso: Iniciativas, Propuestas y Proyectos de Innovación del espacio público en la construcción del Derecho a la Ciudad. Categoría: Resiliencia y Sustentabilidad, SEDATU-Mextrópoli (08-2016).
