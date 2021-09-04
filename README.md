@@ -2,33 +2,33 @@
 <div style="text-align: justify"> Desarrollarme profesionalmente en el área de sustentabilidad, energía y educación con la finalidad de diseñar proyectos e implementar estrategias que, mediante mi experiencia, contribuyan a la conservación de recursos y brinden una mejor calidad de vida a las personas a través de la resiliencia y la sustentabilidad.</div>
 
 ## RESUMEN PROFESIONAL
-Soy Maestra en Ciencia y Tecnología de Sostenibilidad con experiencia en gestión energética y diseño. He colaborado en proyectos de uso eficiente y ahorro de energía a nivel nacional, gestión y manejo de recursos, cambio climático y combate a la pobreza. He participado en diversos proyectos de investigación y desarrollo, así como en congresos internacionales, soy docente universitaria y he asistido en proyectos comunitarios en México.
+<div style="text-align: justify"> Soy Maestra en Ciencia y Tecnología de Sostenibilidad con experiencia en gestión energética y diseño. He colaborado en proyectos de uso eficiente y ahorro de energía a nivel nacional, gestión y manejo de recursos, cambio climático y combate a la pobreza. He participado en diversos proyectos de investigación y desarrollo, así como en congresos internacionales, soy docente universitaria y he asistido en proyectos comunitarios en México. </div>
 
 ## EXPERIENCIA PROFESIONAL
 
 ### Kali Tlali *(05-2020 – 04-2021)*
-Funciones: Responsable del área de energía en proyectos enfocados a permacultura y bioconstrucción.
+<div style="text-align: justify"> Funciones: Responsable del área de energía en proyectos enfocados a permacultura y bioconstrucción. </div>
 
 ### 3D Education *(01-2020 – a la fecha)*
-Funciones: Pláticas sobre Cambio Climático, residuos y conciencia ambiental. 
+<div style="text-align: justify"> Funciones: Pláticas sobre Cambio Climático, residuos y conciencia ambiental. </div> 
 
 ### Taller de Sustentabilidad *(04/2019 – a la fecha)*
-Funciones: Consultora energía- Eficiencia energética, gestión de agua y diseño de proyectos. Cálculo y diseño de instalación eléctricas, eficiencia energética, diseño bioclimático, auditorías energéticas, investigación, etc.
+<div style="text-align: justify"> Funciones: Consultora energía- Eficiencia energética, gestión de agua y diseño de proyectos. Cálculo y diseño de instalación eléctricas, eficiencia energética, diseño bioclimático, auditorías energéticas, investigación, etc. </div>
 
 ### Proyectos de Ahorro de Energía - UNAM *(11/2016-02/2019)*
-Funciones: Coordinadora del Bajío en desarrollo de proyecto sobre Eficiencia Energética para PyMEs de Manufactura en el país. Aplicación e interpretación de auditorías energéticas, cálculo y evaluación de instalaciones industriales, elaboración de indicadores energéticos, impartición de talleres, etc.
+<div style="text-align: justify"> Funciones: Coordinadora del Bajío en desarrollo de proyecto sobre Eficiencia Energética para PyMEs de Manufactura en el país. Aplicación e interpretación de auditorías energéticas, cálculo y evaluación de instalaciones industriales, elaboración de indicadores energéticos, impartición de talleres, etc. </div>
 
 ###	Plan de Acción Climática Municipal (PACMUN) *(03/2018-05/2018)* 
-Funciones: Colaboración en cálculo e interpretación del inventario de emisiones de 3 municipios de Querétaro: Cadereyta, Colón y San Joaquín.
+<div style="text-align: justify"> Funciones: Colaboración en cálculo e interpretación del inventario de emisiones de 3 municipios de Querétaro: Cadereyta, Colón y San Joaquín. </div>
 
 ### RDmes *(04/2014-09/2014)* 
-Funciones: Elaboración de base de datos sobre información meteorológica de México y análisis de la misma. 
+<div style="text-align: justify"> Funciones: Elaboración de base de datos sobre información meteorológica de México y análisis de la misma. </div> 
 
 ### Investigación – UNAM *(10/2012-09/2013)*
-Funciones: Diseño, coordinación y desarrollo de proyecto para PINCC, sobre Condensadores de Humedad para reducción del cambio climático y combate a la pobreza en México.
+<div style="text-align: justify"> Funciones: Diseño, coordinación y desarrollo de proyecto para PINCC, sobre Condensadores de Humedad para reducción del cambio climático y combate a la pobreza en México. </div>
 
 ### Proyectos de Ahorro de Energía - UNAM *(03/2010 – 09/2013)* 
-Funciones: Coordinación de proyectos sobre uso eficiente y ahorro de energía, aplicación e interpretación de auditorías energéticas, cálculo de instalaciones en edificios, investigación en diversos campos (sociales, eficiencia energética, energías renovables, etc.)
+<div style="text-align: justify"> Funciones: Coordinación de proyectos sobre uso eficiente y ahorro de energía, aplicación e interpretación de auditorías energéticas, cálculo de instalaciones en edificios, investigación en diversos campos (sociales, eficiencia energética, energías renovables, etc.) </div>
 
 ### Proyectos de Ahorro de Energía - UNAM en Macropoyecto para sustitución energética en alberca olímpica *(08/2009-12/2009)*
 Funciones: Colaboración en cálculo y estudio para sustitución de calderas y colocación de colectores solares y bombas de calor, simulación de distribución térmica anual.
