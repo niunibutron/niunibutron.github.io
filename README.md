@@ -32,27 +32,27 @@
 <div style="text-align: justify"> Funciones: Coordinación de proyectos sobre uso eficiente y ahorro de energía, aplicación e interpretación de auditorías energéticas, cálculo de instalaciones en edificios, investigación en diversos campos (sociales, eficiencia energética, energías renovables, etc.) </div>
 
 ### Proyectos de Ahorro de Energía - UNAM en Macropoyecto para sustitución energética en alberca olímpica *(08/2009-12/2009)*
-Funciones: Colaboración en cálculo y estudio para sustitución de calderas y colocación de colectores solares y bombas de calor, simulación de distribución térmica anual.
+<div style="text-align: justify"> Funciones: Colaboración en cálculo y estudio para sustitución de calderas y colocación de colectores solares y bombas de calor, simulación de distribución térmica anual. </div>
 
 ### Universidad Nacional Autónoma de México en proyecto para Infonavit *(05/2009 – 09/2009)* 
-Funciones: Evaluación de proyecto sobre ahorro de energía mediante uso de sistemas ahorradores en vivienda popular. 
+<div style="text-align: justify"> Funciones: Evaluación de proyecto sobre ahorro de energía mediante uso de sistemas ahorradores en vivienda popular.  </div>
 
 ## DOCENCIA
 
 ### SAE Institute *(07/2021-a la fecha)*
-Funciones: Profesora de asignatura - Circuito Eléctricos
+<div style="text-align: justify"> Funciones: Profesora de asignatura - Circuito Eléctricos </div>
 
 ### Universidad Marista Querétaro *(08/2018-04/2019)*
-Funciones: Profesora de asignatura - Ecuaciones Diferenciales, Matemáticas II, Ing. Ambiental, Estadística y Métodos Numéricos.
+<div style="text-align: justify"> Funciones: Profesora de asignatura - Ecuaciones Diferenciales, Matemáticas II, Ing. Ambiental, Estadística y Métodos Numéricos. </div>
 
 ### Universidad Autónoma de Querétaro *(01/2016-04/2019)*
-Funciones: Profesora de asignatura - Medio Ambiente y Sustentabilidad
+<div style="text-align: justify"> Funciones: Profesora de asignatura - Medio Ambiente y Sustentabilidad </div>
 
 ### Universidad Tecnológica de Querétaro *(01/2016-01/2018)*
-Funciones: Profesora de asignatura - Procesos Industriales, Funciones Matemáticas, Física, Metodología de la Investigación, Mecánica Industrial, Formulación de Proyectos, Cálculo Integral, Cálculo diferencia, Análisis de Sistemas, Administración de Proyectos y Estadías.
+<div style="text-align: justify"> Funciones: Profesora de asignatura - Procesos Industriales, Funciones Matemáticas, Física, Metodología de la Investigación, Mecánica Industrial, Formulación de Proyectos, Cálculo Integral, Cálculo diferencia, Análisis de Sistemas, Administración de Proyectos y Estadías. </div>
 
 ### Universidad Nacional Autónoma de México *(10/2012-09/2013)*
-Funciones: Profesora de asignatura - Energías Renovables y Termodinámica Aplicada.
+<div style="text-align: justify"> Funciones: Profesora de asignatura - Energías Renovables y Termodinámica Aplicada. </div>
 
 ## FORMACIÓN ACADÉMICA
  
@@ -71,11 +71,11 @@ Universidad Nacional Autónoma de México
 * Manejo básico de Software: NX 5, Solid Edge y AutoCAD
 
 ## TRABAJO COMUNITARIO Y VOLUNTARIADO
-Facilitadora de proyectos comunitarios, Colectivo de gestión de redes, 2011-2013, ADECO S.A. de C.V. 
-Proyectos de desarrollo comunitario, 2017-2018, Suelo fértil S.A.
+* Facilitadora de proyectos comunitarios, Colectivo de gestión de redes, 2011-2013, ADECO S.A. de C.V. 
+* Proyectos de desarrollo comunitario, 2017-2018, Suelo fértil S.A.
 
 ## HABILIDADES RELACIONADAS CON EL TRABAJO
-Honestidad, deseos de aprender, liderazgo, trabajo en equipo, responsabilidad, resolución de problemas, presentación de resultados, flexibilidad, empatía, habilidades comunicativas.
+<div style="text-align: justify">  Honestidad, deseos de aprender, liderazgo, trabajo en equipo, responsabilidad, resolución de problemas, presentación de resultados, flexibilidad, empatía, habilidades comunicativas.
 
 ## CURSOS ACTUALIZACIÓN
 * **Energía solar, Sistemas Fotovoltaicos,** 8 horas, (24/02/21-25/02/21), Syscom.
