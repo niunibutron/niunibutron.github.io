@@ -92,7 +92,7 @@ Universidad Nacional Autónoma de México
 * **Curso Innovación 4.0,** 20 horas, (4/09/17-8/09/17), Universidad Tecnológica de Querétaro.
 * **Diplomado: Ciudades seguras para la convivencia a partir del espacio público,** 120 horas, noviembre-abril 2016, Arquitectura, UNAM, México DF.
 * **Bioconstrucción (adobe, cob, BTC, quincha y paja),** 25 horas, Espai Gardenyes, 2015, Barcelona, España. 
-* **Diseño Industrial, 2014, División Industrial, UPC, Barcelona España.
+* **Diseño Industrial,** 2014, División Industrial, UPC, Barcelona España.
 * **Workshop: backcasting,** 2014, UPC, Villanova i la Gertrù, Cataluña, España. 
 * **El desarrollo de proyectos y su importancia en el aprendizaje de ingeniería,** 20 horas, mayo-junio 2013, Centro de Docencia, UNAM, Ciudad de México.
 * **Tlalana. Autogestión y jóvenes,** 14 horas, febrero 2012, ADECO A.C.
