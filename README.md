@@ -1,5 +1,4 @@
-## Ingenieria Electrica
-
+## Niuni Butrón Álvarez
 Este curso es impartido por la profesora Niuni Butron y en este sitio encontrarás parte del material de clase.
 
 ### Practica 2
