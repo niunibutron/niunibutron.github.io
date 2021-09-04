@@ -1,4 +1,4 @@
-.
+------------------------
 ## OBJETIVOS
 <div style="text-align: justify"> Desarrollarme profesionalmente en el área de sustentabilidad, energía y educación con la finalidad de diseñar proyectos e implementar estrategias que, mediante mi experiencia, contribuyan a la conservación de recursos y brinden una mejor calidad de vida a las personas a través de la resiliencia y la sustentabilidad.</div>
 
