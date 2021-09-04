@@ -75,9 +75,9 @@ Universidad Nacional Autónoma de México
 * Proyectos de desarrollo comunitario, 2017-2018, Suelo fértil S.A.
 
 ## HABILIDADES RELACIONADAS CON EL TRABAJO
-<div style="text-align: justify">  Honestidad, deseos de aprender, liderazgo, trabajo en equipo, responsabilidad, resolución de problemas, presentación de resultados, flexibilidad, empatía, habilidades comunicativas.
-
-## CURSOS ACTUALIZACIÓN
+<div style="text-align: justify">  Honestidad, deseos de aprender, liderazgo, trabajo en equipo, responsabilidad, resolución de problemas, presentación de resultados, flexibilidad, empatía, habilidades comunicativas.</div>
+ 
+## HABILIDADES
 * **Energía solar, Sistemas Fotovoltaicos,** 8 horas, (24/02/21-25/02/21), Syscom.
 * **Sustentabilidad y economías sociales,** 20 horas, (16/04/2020-27/05/2020), Universidad de Chile, Coursera.
 * **Cosecha de agua,** 12 horas, (05/01/2020-12/01/2020), Fundación Carlos Slim.
