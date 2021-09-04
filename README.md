@@ -1,5 +1,5 @@
 ## OBJETIVOS
-Desarrollarme profesionalmente en el área de sustentabilidad, energía y educación con la finalidad de diseñar proyectos e implementar estrategias que, mediante mi experiencia, contribuyan a la conservación de recursos y brinden una mejor calidad de vida a las personas a través de la resiliencia y la sustentabilidad.
+<div style="text-align: justify"> Desarrollarme profesionalmente en el área de sustentabilidad, energía y educación con la finalidad de diseñar proyectos e implementar estrategias que, mediante mi experiencia, contribuyan a la conservación de recursos y brinden una mejor calidad de vida a las personas a través de la resiliencia y la sustentabilidad.</div>
 
 ## RESUMEN PROFESIONAL
 Soy Maestra en Ciencia y Tecnología de Sostenibilidad con experiencia en gestión energética y diseño. He colaborado en proyectos de uso eficiente y ahorro de energía a nivel nacional, gestión y manejo de recursos, cambio climático y combate a la pobreza. He participado en diversos proyectos de investigación y desarrollo, así como en congresos internacionales, soy docente universitaria y he asistido en proyectos comunitarios en México.
